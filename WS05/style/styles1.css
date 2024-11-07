@@ -1,0 +1,30 @@
+
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(77, 76, 76);
+}
+
+
+#header {
+    background-color: #0b8f0f; 
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+#nav {
+    background-color: #020000; 
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+
+#section {
+    background-color: #f4f4f4; 
+    padding: 20px;
+    margin-top: 10px;
+    color: white;
+    background-color: #020000;;
+}

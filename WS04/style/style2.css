@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    font-size: 20px;
+}
+p {
+    font-size: 12px;
+    color: lightgray;
+}
+
+.custom-div {
+    width: 100px;
+    height: 100px;
+    border: 2px dotted;display: flex;
+  
+    
+}

@@ -1,0 +1,9 @@
+body {
+    background-color: darkcyan;
+    color: white;
+}
+
+.styled-image {
+    border: 7px solid #210292;
+    border-radius: 10px;
+}
